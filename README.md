@@ -50,6 +50,18 @@ Video uses adaptive profiles: a **720p / 30 fps target** at the start, with a co
 
 This is an architecture summary; implementation code and deployment configuration remain private.
 
+## Website screenshots
+
+### Home page
+
+[![AniGap live website home page](assets/anigap-website-home.jpg)](https://anigap.ir/)
+
+### Web conversation screen
+
+[![AniGap web conversation screen before starting a call](assets/anigap-website-chat.jpg)](https://anigap.ir/chat)
+
+*Captured from the live website. The conversation screen is shown before starting a call.*
+
 ## App previews
 
 <p align="center">
