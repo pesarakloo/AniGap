@@ -14,7 +14,7 @@
 
 آنی‌گپ فضایی برای آشنایی با افراد تازه از طریق گفت‌وگوی تصویری تصادفی و پیام متنی است. گفت‌وگو را شروع کن، پیام بفرست و هر وقت خواستی به نفر بعدی برو.
 
-**[ورود به آنی‌گپ](https://anigap.ir/)** · **[دانلود اندروید](https://anigap.ir/android)** · **[کانال تلگرام](https://t.me/anigap_ir)** · **[انتشارها](https://github.com/pesarakloo/AniGap/releases)**
+**[ورود به آنی‌گپ](https://anigap.ir/)** · **[دانلود اندروید ۰.۵.۱](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk)** · **[کانال تلگرام](https://t.me/anigap_ir)** · **[انتشارها](https://github.com/pesarakloo/AniGap/releases)**
 
 ## امکانات
 
@@ -30,9 +30,9 @@
 
 **وب:** از طریق مرورگر وارد [anigap.ir](https://anigap.ir/) شو.
 
-**اندروید:** برنامه را از [صفحهٔ رسمی دانلود اندروید](https://anigap.ir/android) دریافت کن. برنامهٔ اندروید رابط کاربری بومی و اختصاصی خودش را دارد.
+**نسخهٔ اندروید ۰.۵.۱ منتشر شده است:** فایل [AniGap-0.5.1.apk](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk) را مستقیم از انتشارهای گیت‌هاب دانلود کن. نیازمند **اندروید ۸ یا بالاتر** است. برنامهٔ اندروید رابط کاربری بومی و اختصاصی خودش را دارد.
 
-بخش [انتشارهای گیت‌هاب](https://github.com/pesarakloo/AniGap/releases) محل دریافت فایل APK پس از انتشار آن است. در حال حاضر، لینک دانلود به صفحهٔ رسمی اندروید هدایت می‌شود.
+[توضیحات انتشار ۰.۵.۱](https://github.com/pesarakloo/AniGap/releases/tag/0.5.1) و [صفحهٔ رسمی برنامهٔ اندروید](https://anigap.ir/android) نیز در دسترس‌اند.
 
 ## ساختار فنی
 
@@ -56,11 +56,11 @@
 
 ### صفحهٔ اصلی
 
-[![صفحهٔ اصلی سایت آنی‌گپ](assets/anigap-website-home.jpg)](https://anigap.ir/)
+[![صفحهٔ اصلی سایت آنی‌گپ](assets/anigap-website-home-full.jpg)](https://anigap.ir/)
 
 ### صفحهٔ گفت‌وگوی وب
 
-[![صفحهٔ گفت‌وگوی وب آنی‌گپ پیش از شروع تماس](assets/anigap-website-chat.jpg)](https://anigap.ir/chat)
+[![صفحهٔ گفت‌وگوی وب آنی‌گپ پیش از شروع تماس](assets/anigap-website-chat-full.jpg)](https://anigap.ir/chat)
 
 *تصاویر از سایت اصلی گرفته شده‌اند. صفحهٔ گفت‌وگو در حالت پیش از شروع تماس نمایش داده شده است.*
 
@@ -77,7 +77,8 @@
 ## پیوندهای رسمی
 
 - [وب‌سایت آنی‌گپ](https://anigap.ir/)
-- [برنامهٔ اندروید](https://anigap.ir/android)
+- [دانلود اندروید ۰.۵.۱ (APK)](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk)
+- [صفحهٔ برنامهٔ اندروید](https://anigap.ir/android)
 - [کانال تلگرام — @anigap_ir](https://t.me/anigap_ir)
 - [راهنما](https://anigap.ir/guide)
 - [حریم خصوصی](https://anigap.ir/privacy)

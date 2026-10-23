@@ -12,7 +12,7 @@
 
 AniGap brings people together through random video conversations and text chat. Meet someone new, send a message, and move to the next conversation whenever you choose.
 
-**[Open AniGap](https://anigap.ir/)** · **[Download Android](https://anigap.ir/android)** · **[Telegram](https://t.me/anigap_ir)** · **[Releases](https://github.com/pesarakloo/AniGap/releases)**
+**[Open AniGap](https://anigap.ir/)** · **[Download Android v0.5.1](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk)** · **[Telegram](https://t.me/anigap_ir)** · **[Releases](https://github.com/pesarakloo/AniGap/releases)**
 
 ## What you can do
 
@@ -28,9 +28,9 @@ AniGap brings people together through random video conversations and text chat. 
 
 **Web:** visit [anigap.ir](https://anigap.ir/) from your browser.
 
-**Android:** get the app from the [official Android download page](https://anigap.ir/android). AniGap has its own native Android interface.
+**Android v0.5.1 is available:** [Download AniGap-0.5.1.apk](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk) directly from GitHub Releases. Requires **Android 8.0 or later**. AniGap has its own native Android interface.
 
-[GitHub Releases](https://github.com/pesarakloo/AniGap/releases) is the place for APK release assets when they are published. The official Android page is the current download destination.
+Read the [v0.5.1 release notes](https://github.com/pesarakloo/AniGap/releases/tag/0.5.1) or visit the [official Android app page](https://anigap.ir/android).
 
 ## Technical overview
 
@@ -54,11 +54,11 @@ This is an architecture summary; implementation code and deployment configuratio
 
 ### Home page
 
-[![AniGap live website home page](assets/anigap-website-home.jpg)](https://anigap.ir/)
+[![AniGap live website home page](assets/anigap-website-home-full.jpg)](https://anigap.ir/)
 
 ### Web conversation screen
 
-[![AniGap web conversation screen before starting a call](assets/anigap-website-chat.jpg)](https://anigap.ir/chat)
+[![AniGap web conversation screen before starting a call](assets/anigap-website-chat-full.jpg)](https://anigap.ir/chat)
 
 *Captured from the live website. The conversation screen is shown before starting a call.*
 
@@ -75,7 +75,8 @@ This is an architecture summary; implementation code and deployment configuratio
 ## Official links
 
 - [Website](https://anigap.ir/)
-- [Android app](https://anigap.ir/android)
+- [Download Android v0.5.1 (APK)](https://github.com/pesarakloo/AniGap/releases/download/0.5.1/AniGap-0.5.1.apk)
+- [Android app page](https://anigap.ir/android)
 - [Telegram channel — @anigap_ir](https://t.me/anigap_ir)
 - [Help](https://anigap.ir/guide)
 - [Privacy policy](https://anigap.ir/privacy)
