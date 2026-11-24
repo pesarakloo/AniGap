@@ -79,12 +79,12 @@ This is an architecture summary; implementation code and deployment configuratio
 ## App previews
 
 <p align="center">
-  <img src="assets/android-call-demo.webp" width="220" alt="AniGap video conversation with call controls">
-  <img src="assets/android-messages-demo.webp" width="220" alt="AniGap text messaging during a conversation">
-  <img src="assets/android-guide-demo.webp" width="220" alt="AniGap help and appearance settings">
+  <img src="assets/android-home-v0.5.33.webp" width="220" alt="AniGap Android video chat screen before starting a call">
+  <img src="assets/android-messenger-v0.5.33.webp" width="220" alt="AniGap Android Messages tab before sign-in">
+  <img src="assets/android-account-v0.5.33.webp" width="220" alt="AniGap Android Account tab">
 </p>
 
-*Illustrative app previews with sample participants and messages.*
+*Screenshots from AniGap for Android 0.5.33 in guest mode.*
 
 ## Official links
 

@@ -81,12 +81,12 @@
 ## پیش‌نمایش برنامه
 
 <p align="center">
-  <img src="assets/android-call-demo.webp" width="220" alt="گفت‌وگوی تصویری آنی‌گپ و کنترل‌های مکالمه">
-  <img src="assets/android-messages-demo.webp" width="220" alt="پیام متنی در گفت‌وگوی آنی‌گپ">
-  <img src="assets/android-guide-demo.webp" width="220" alt="صفحهٔ راهنما و تنظیمات ظاهر آنی‌گپ">
+  <img src="assets/android-home-v0.5.33.webp" width="220" alt="صفحهٔ چت تصویری آنی‌گپ در اندروید پیش از شروع تماس">
+  <img src="assets/android-messenger-v0.5.33.webp" width="220" alt="بخش پیام‌ها در حالت مهمان">
+  <img src="assets/android-account-v0.5.33.webp" width="220" alt="صفحهٔ حساب آنی‌گپ در اندروید">
 </p>
 
-*تصاویر نمایشی برنامه با هم‌صحبت‌ها و پیام‌های نمونه.*
+*تصاویر نسخهٔ ۰٫۵٫۳۳ اندروید در حالت مهمان ثبت شده‌اند.*
 
 ## پیوندهای رسمی
 
