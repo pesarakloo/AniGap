@@ -72,7 +72,7 @@ This is an architecture summary; implementation code and deployment configuratio
 
 ### Web conversation screen
 
-[![AniGap web conversation screen before starting a call](assets/anigap-web-chat-2026-11-24.webp)](https://anigap.ir/chat)
+[![AniGap web conversation screen before starting a call](assets/anigap-web-video-chat-2026-11-24.webp)](https://anigap.ir/chat)
 
 *Captured from the live website on November 24, 2026. The conversation screen is shown before starting a call.*
 
