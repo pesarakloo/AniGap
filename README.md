@@ -12,7 +12,7 @@
 
 AniGap brings people together through random video and voice conversations, shared voice rooms, and private messaging. Meet someone new or keep in touch with friends from your browser or the native Android app.
 
-**[Open AniGap](https://anigap.ir/)** · **[Get the Android app](https://anigap.ir/android)** · **[Telegram](https://t.me/anigap_ir)** · **[Releases](https://github.com/pesarakloo/AniGap/releases)**
+**[Open AniGap](https://anigap.ir/)** · **[Download Android APK](https://github.com/pesarakloo/AniGap/releases/download/0.5.33/AniGap-0.5.33.apk)** · **[Telegram](https://t.me/anigap_ir)** · **[Releases](https://github.com/pesarakloo/AniGap/releases)**
 
 ## What you can do
 
@@ -37,13 +37,13 @@ AniGap brings people together through random video and voice conversations, shar
 
 Visit [anigap.ir](https://anigap.ir/) to use **AniGap on the web** from a desktop or mobile browser.
 
-Get the **native Android app** from the [official Android app page](https://anigap.ir/android). It requires **Android 8.0 or later**. The earlier [v0.5.1 release on GitHub](https://github.com/pesarakloo/AniGap/releases/tag/0.5.1) includes its APK and release notes.
+Download the **native Android app** as an [APK for v0.5.33](https://github.com/pesarakloo/AniGap/releases/download/0.5.33/AniGap-0.5.33.apk) from GitHub or visit the [official Android app page](https://anigap.ir/android). The app requires **Android 8.0 or later**. See the [v0.5.33 release notes](https://github.com/pesarakloo/AniGap/releases/tag/0.5.33).
 
 The **Android attachment gallery** has a compact grid that mixes photos and videos from newest to oldest and loads earlier items as you scroll. Only videos show a duration. Swipe between photos in the viewer or use its menu to save media. Switch between voice and video notes with a tap and hold to record. The next voice note or audio file can play automatically.
 
 On **Android**, the account screen and cached conversations can open offline. Recent media and profile photos can be reused from local storage. Incoming call alerts offer answer and decline, and ongoing voice calls can continue when the screen locks or you switch apps. SMS code autofill is available on supported devices.
 
-This page covers Android **0.5.33** and web/server **1.10.35**. Visit the official app page for the currently distributed APK.
+This page covers Android **0.5.33** and web/server **1.10.35**.
 
 ## Technical overview
 
@@ -90,6 +90,7 @@ This is an architecture summary; implementation code and deployment configuratio
 
 - [Website](https://anigap.ir/)
 - [Official Android app and APK download](https://anigap.ir/android)
+- [AniGap for Android v0.5.33 on GitHub](https://github.com/pesarakloo/AniGap/releases/tag/0.5.33)
 - [GitHub release archive](https://github.com/pesarakloo/AniGap/releases)
 - [Telegram channel — @anigap_ir](https://t.me/anigap_ir)
 - [Help](https://anigap.ir/guide)
