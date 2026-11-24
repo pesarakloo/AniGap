@@ -80,7 +80,7 @@ This is an architecture summary; implementation code and deployment configuratio
 
 <p align="center">
   <img src="assets/android-home-v0.5.33.webp" width="220" alt="AniGap Android video chat screen before starting a call">
-  <img src="assets/android-messenger-v0.5.33.webp" width="220" alt="AniGap Android Messages tab before sign-in">
+  <img src="assets/android-audio-v0.5.33.webp" width="220" alt="AniGap Android voice conversation screen">
   <img src="assets/android-account-v0.5.33.webp" width="220" alt="AniGap Android Account tab">
 </p>
 

@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="assets/android-home-v0.5.33.webp" width="220" alt="صفحهٔ چت تصویری آنی‌گپ در اندروید پیش از شروع تماس">
-  <img src="assets/android-messenger-v0.5.33.webp" width="220" alt="بخش پیام‌ها در حالت مهمان">
+  <img src="assets/android-audio-v0.5.33.webp" width="220" alt="صفحهٔ گفت‌وگوی صوتی آنی‌گپ در اندروید">
   <img src="assets/android-account-v0.5.33.webp" width="220" alt="صفحهٔ حساب آنی‌گپ در اندروید">
 </p>
 
