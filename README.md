@@ -68,13 +68,13 @@ This is an architecture summary; implementation code and deployment configuratio
 
 ### Home page
 
-[![AniGap live website home page](assets/anigap-website-home-full.jpg)](https://anigap.ir/)
+[![AniGap live website home page](assets/anigap-web-home-2026-11-24.jpg)](https://anigap.ir/)
 
 ### Web conversation screen
 
-[![AniGap web conversation screen before starting a call](assets/anigap-website-chat-full.jpg)](https://anigap.ir/chat)
+[![AniGap web conversation screen before starting a call](assets/anigap-web-video-chat-2026-11-24.jpg)](https://anigap.ir/chat)
 
-*Captured from the live website. The conversation screen is shown before starting a call.*
+*Captured from the live website on November 24, 2026. The conversation screen is shown before starting a call.*
 
 ## App previews
 
